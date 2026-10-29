@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+    char nome[50];
+    int i;
+    printf("Digite seu nome: \n");
+    scanf("%49s", &nome);
+    
+    for(i=0; nome[0] != '\0';i++){
+        printf("Seu nome \"%s\" possui um total de %d letras e possui uma otima história", nome,i);
+    }
+    return 0;
+}
