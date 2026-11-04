@@ -1,0 +1,10 @@
+6. Qual é a diferença entre char e uma string?
+char: é um caractere da informação obtida, serve como o índice dos vetores/matrizes.
+string: é a informação inteira, sendo constituída por vários char.
+
+7. Por que uma string precisa do caractere '\0'?
+para poder reconhecer quando chegar ao final da informação sendo trabalhada.
+
+8. Qual é a diferença entre ler um texto com scanf("%s", ...) e com fgets(...)?
+o scanf serve para o computador receber uma informação dita pelo usuário, do qual vai ser utilizada para fazer a próxima ação, porém sendo limitada ao chegar em espaços brancos.
+o fgets também obtém as informações do usuário, porém ele consegue expandir mais ao aceitar espaços em branco.        
