@@ -1,0 +1,17 @@
+1. Qual função não possui parâmetros nem retorno?
+void nome função(void)- QUESTÃO 5, ela serve principalmente em apresentar uma mensagem, pois ela além de não receber números ela também não terá nada para da retorno.
+
+2. Quais funções recebem dois parâmetros?
+int nome função(int v1, int v2)- QUESTÃO 3, é utilizado em operações com mais de um valor, por exemplo com if e else, dependendo da condição vai retornar a primeira opção ou á segunda.
+
+3. Qual é a finalidade do return nas funções matemáticas?
+ela tem a principal finalidade de trazer o resultado de alguma operação, por exemplo retornar o valor após uma soma.
+
+4. Por que o programa utiliza switch?
+o switch serve para trocar entre diferentes possibilidades de um código, por exemplo ao criar uma calculadora cada tipo de operação vai ter uma saída diferente.
+
+5. Qual é a finalidade da estrutura do...while?
+o do while serve para automatizar uma função até ela atingir o limite escolhido, por exemplo mandar contar de 0 a 1000 onde o while (i < 1001) seria o limite, mas também é garantir que o código rode no mínimo uma vez antes da checagem do limite.
+
+6. Por que a divisão por zero precisa ser verificada?
+pois na matemática a divisão por zero é impossível, logo é necessário impor a condição do (denominador !=0).
